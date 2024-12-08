@@ -86,5 +86,3 @@ CREATE TABLE waste_items (
    - View a detailed waste report.
    - Delete specific waste items or clear all waste items.
 4. Log out when done.
-
---- 
